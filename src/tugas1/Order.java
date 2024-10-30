@@ -24,6 +24,7 @@ public class Order {
         }
         return total;
 
+
     }
 
     public void displayInvoice() {
